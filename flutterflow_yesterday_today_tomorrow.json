@@ -1,0 +1,16 @@
+region,dayIndex,label,date,q50_mm,predictionInt,base_date_used
+Admiralty,-1,Yesterday,2026-01-30,11.58,1,2025-09-30
+Admiralty,0,Today,2026-01-31,9.81,1,2025-09-30
+Admiralty,1,Tomorrow,2026-02-01,8.048,1,2025-09-30
+Ang Mo Kio,-1,Yesterday,2026-01-30,3.911,1,2025-09-30
+Ang Mo Kio,0,Today,2026-01-31,4.786,1,2025-09-30
+Ang Mo Kio,1,Tomorrow,2026-02-01,3.916,1,2025-09-30
+Changi,-1,Yesterday,2026-01-30,3.794,1,2025-09-30
+Changi,0,Today,2026-01-31,5.016,1,2025-09-30
+Changi,1,Tomorrow,2026-02-01,4.816,1,2025-09-30
+Sentosa Island,-1,Yesterday,2026-01-30,3.58,1,2025-09-30
+Sentosa Island,0,Today,2026-01-31,3.64,1,2025-09-30
+Sentosa Island,1,Tomorrow,2026-02-01,4.274,1,2025-09-30
+Tuas South,-1,Yesterday,2026-01-30,3.061,1,2025-09-30
+Tuas South,0,Today,2026-01-31,3.275,1,2025-09-30
+Tuas South,1,Tomorrow,2026-02-01,3.381,1,2025-09-30
